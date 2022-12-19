@@ -462,6 +462,4 @@ def homepage():
         elif(pilihanMenu == '6') :
             break
 
-#setiap break, dia akan membuka angka yang terakhir dibuka
-
 homepage()
