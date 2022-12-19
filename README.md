@@ -15,6 +15,6 @@ The application has 4 main features + 1 extra feature:
 
 4. Delete Data: The user is able to delete the existing car's data
 
-5. Rent a car (extra feature): The user is able to rent their desired car/cars (based on availablity), decide its rental duration and make payment to secure the car. 
+5. Rent a car (extra feature): The user is able to rent their desired car/cars (based on availablity), decide its rental duration and make payment to secure the car
    
 6. Exit programme: The user is able to exit the programme 
